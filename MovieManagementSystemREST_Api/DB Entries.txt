@@ -1,0 +1,9 @@
+insert into film values(default,"Kalank","GOOD","2020-09-14",600,1);
+insert into film values(default,"Bahubali","BLOCKBUSTER","2019-04-11",799,2);
+insert into film values(default,"AvengerEndGame","BLOCKBUSTER","2022-04-14",600,3);
+
+
+insert into producer values(default,53,"1980-09-25","karan@gmail.com","Karan@123","Karan Johar");
+insert into producer values(default,42,"1989-01-21","shobu@gmail.com","Shobu@123","Shobu Yarlagadda");
+insert into producer values(default,53,"1989-01-21","kevin@gmail.com","Kevin@123","Kevin Feige");
+
